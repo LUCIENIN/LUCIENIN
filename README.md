@@ -37,9 +37,9 @@
 | --- | --- | --- |
 | [android-sister](https://github.com/LUCIENIN/android-sister) | 本地优先的 macOS Android 真机伴侣：ADB 设备发现、应用级投屏与 Android 14+ Fusion 虚拟显示。 | `Swift` · ⭐ 0 · Updated 2026-08-02 |
 | [vision-lock-rk3568](https://github.com/LUCIENIN/vision-lock-rk3568) | RK3568智能锁屏系统 - 人脸检测+欢迎词+天气+新闻+汇率+运势 | `Python` · ⭐ 0 · Updated 2026-08-02 |
-| [baixiong](https://github.com/LUCIENIN/baixiong) | baixiong | `Other` · ⭐ 0 · Updated 2026-06-30 |
-| [codex-auto-resume](https://github.com/LUCIENIN/codex-auto-resume) | No description yet. | `TypeScript` · ⭐ 0 · Updated 2026-06-22 |
-| [lumenbloom-gesture-garden](https://github.com/LUCIENIN/lumenbloom-gesture-garden) | No description yet. | `HTML` · ⭐ 0 · Updated 2026-06-21 |
+| [baixiong](https://github.com/LUCIENIN/baixiong) | 个人实验项目，代码与说明正在整理中。 | `Other` · ⭐ 0 · Updated 2026-06-30 |
+| [codex-auto-resume](https://github.com/LUCIENIN/codex-auto-resume) | 本地 Codex CLI 任务守护器：检测配额/限流中断，等待重置后安全恢复同一线程。 | `TypeScript` · ⭐ 0 · Updated 2026-06-22 |
+| [lumenbloom-gesture-garden](https://github.com/LUCIENIN/lumenbloom-gesture-garden) | 摄像头手势控制的互动数字花园：用手势生长藤蔓、绽放花朵并培育外星果实。 | `HTML` · ⭐ 0 · Updated 2026-06-21 |
 <!-- AUTO-PROJECTS:END -->
 
 ## Toolbox
