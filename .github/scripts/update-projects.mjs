@@ -69,8 +69,7 @@ async function fetchRepositories() {
       repository.name !== profileRepository &&
       !repository.fork &&
       !repository.archived &&
-      !repository.disabled &&
-      repository.size > 0
+      !repository.disabled
     )
     .sort((left, right) => new Date(right.pushed_at) - new Date(left.pushed_at))
     .slice(0, PROJECT_LIMIT);
