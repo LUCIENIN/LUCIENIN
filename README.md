@@ -28,13 +28,17 @@
 - ✨ **Creative coding** — 用视觉、动作和生成式体验创造更有生命力的界面
 - ⚙️ **Edge devices** — 把视觉识别与本地计算带到真实硬件
 
-## Featured builds
+## Latest public builds
 
-| Project | What it does | Core stack |
+<sub>Automatically refreshed from my latest public, non-fork repositories.</sub>
+
+<!-- AUTO-PROJECTS:START -->
+| Project | Description | Activity |
 | --- | --- | --- |
-| [codex-auto-resume](https://github.com/LUCIENIN/codex-auto-resume) | Local supervisor that safely resumes interrupted Codex CLI tasks after quota resets. | `TypeScript` `Node.js` |
-| [lumenbloom-gesture-garden](https://github.com/LUCIENIN/lumenbloom-gesture-garden) | A camera-controlled digital garden where hand gestures grow vines, flowers and alien fruit. | `p5.js` `MediaPipe` `Canvas` |
-| [vision-lock-rk3568](https://github.com/LUCIENIN/vision-lock-rk3568) | Local vision-triggered lock-screen system designed for RK3568 edge hardware. | `Python` `RKNN` `Linux` |
+| [vision-lock-rk3568](https://github.com/LUCIENIN/vision-lock-rk3568) | RK3568智能锁屏系统 - 人脸检测+欢迎词+天气+新闻+汇率+运势 | `Python` · ⭐ 0 · Updated 2026-08-02 |
+| [codex-auto-resume](https://github.com/LUCIENIN/codex-auto-resume) | No description yet. | `TypeScript` · ⭐ 0 · Updated 2026-06-22 |
+| [lumenbloom-gesture-garden](https://github.com/LUCIENIN/lumenbloom-gesture-garden) | No description yet. | `HTML` · ⭐ 0 · Updated 2026-06-21 |
+<!-- AUTO-PROJECTS:END -->
 
 ## Toolbox
 
