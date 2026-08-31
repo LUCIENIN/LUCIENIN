@@ -35,12 +35,12 @@
 <!-- AUTO-PROJECTS:START -->
 | Project | Description | Activity |
 | --- | --- | --- |
+| [agent-visual-taste](https://github.com/LUCIENIN/agent-visual-taste) | A visual-direction and screenshot-QA skill for Codex and other coding agents. | `Python` · ⭐ 0 · Updated 2026-08-31 |
 | [workspace-redaction-app](https://github.com/LUCIENIN/workspace-redaction-app) | Privacy router, content-free snapshot, and publication workflow for a local LLM Wiki knowledge base | `Python` · ⭐ 0 · Updated 2026-08-29 |
 | [pixel-cover-from-zero](https://github.com/LUCIENIN/pixel-cover-from-zero) | A reusable, evidence-backed workflow and prompt for pixel-style social covers. | `Other` · ⭐ 0 · Updated 2026-08-20 |
 | [e01-codex-ring](https://github.com/LUCIENIN/e01-codex-ring) | Experimental macOS Swift toolkit for E01/ZRun round BLE badges and a Codex allowance dashboard | `Swift` · ⭐ 0 · Updated 2026-08-20 |
 | [ai-creator-ops-playbook](https://github.com/LUCIENIN/ai-creator-ops-playbook) | Human-centered, evidence-first AI writing system for natural language, visual content, localization, and verified publishing — 中文 / English / Русский. | `Other` · ⭐ 0 · Updated 2026-08-17 |
 | [android-sister](https://github.com/LUCIENIN/android-sister) | 本地优先的 macOS Android 真机伴侣：ADB 设备发现、应用级投屏与 Android 14+ Fusion 虚拟显示。 | `Swift` · ⭐ 1 · Updated 2026-08-02 |
-| [vision-lock-rk3568](https://github.com/LUCIENIN/vision-lock-rk3568) | RK3568智能锁屏系统 - 人脸检测+欢迎词+天气+新闻+汇率+运势 | `Python` · ⭐ 0 · Updated 2026-08-02 |
 <!-- AUTO-PROJECTS:END -->
 
 ## Toolbox
