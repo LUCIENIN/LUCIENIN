@@ -35,7 +35,7 @@
 <!-- AUTO-PROJECTS:START -->
 | Project | Description | Activity |
 | --- | --- | --- |
-| [agent-visual-taste](https://github.com/LUCIENIN/agent-visual-taste) | A visual-direction and screenshot-QA skill for Codex and other coding agents. | `Python` · ⭐ 0 · Updated 2026-08-31 |
+| [agent-visual-taste](https://github.com/LUCIENIN/agent-visual-taste) | A visual-direction and screenshot-QA skill for Codex and other coding agents. | `Python` · ⭐ 0 · Updated 2026-09-01 |
 | [workspace-redaction-app](https://github.com/LUCIENIN/workspace-redaction-app) | Privacy router, content-free snapshot, and publication workflow for a local LLM Wiki knowledge base | `Python` · ⭐ 0 · Updated 2026-08-29 |
 | [pixel-cover-from-zero](https://github.com/LUCIENIN/pixel-cover-from-zero) | A reusable, evidence-backed workflow and prompt for pixel-style social covers. | `Other` · ⭐ 0 · Updated 2026-08-20 |
 | [e01-codex-ring](https://github.com/LUCIENIN/e01-codex-ring) | Experimental macOS Swift toolkit for E01/ZRun round BLE badges and a Codex allowance dashboard | `Swift` · ⭐ 0 · Updated 2026-08-20 |
