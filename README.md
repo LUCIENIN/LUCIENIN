@@ -35,12 +35,12 @@
 <!-- AUTO-PROJECTS:START -->
 | Project | Description | Activity |
 | --- | --- | --- |
+| [zodiac-egg-public](https://github.com/LUCIENIN/zodiac-egg-public) | 生肖蛋 ZodiacEgg · 十二生肖像素桌面伙伴｜专注、提醒与自由装扮｜Tauri + React + PixiJS | `TypeScript` · ⭐ 0 · Updated 2026-09-04 |
 | [agent-visual-taste](https://github.com/LUCIENIN/agent-visual-taste) | A visual-direction and screenshot-QA skill for Codex and other coding agents. | `Python` · ⭐ 0 · Updated 2026-09-01 |
 | [workspace-redaction-app](https://github.com/LUCIENIN/workspace-redaction-app) | Privacy router, content-free snapshot, and publication workflow for a local LLM Wiki knowledge base | `Python` · ⭐ 0 · Updated 2026-08-29 |
 | [pixel-cover-from-zero](https://github.com/LUCIENIN/pixel-cover-from-zero) | A reusable, evidence-backed workflow and prompt for pixel-style social covers. | `Other` · ⭐ 0 · Updated 2026-08-20 |
 | [e01-codex-ring](https://github.com/LUCIENIN/e01-codex-ring) | Experimental macOS Swift toolkit for E01/ZRun round BLE badges and a Codex allowance dashboard | `Swift` · ⭐ 0 · Updated 2026-08-20 |
 | [ai-creator-ops-playbook](https://github.com/LUCIENIN/ai-creator-ops-playbook) | Human-centered, evidence-first AI writing system for natural language, visual content, localization, and verified publishing — 中文 / English / Русский. | `Other` · ⭐ 0 · Updated 2026-08-17 |
-| [android-sister](https://github.com/LUCIENIN/android-sister) | 本地优先的 macOS Android 真机伴侣：ADB 设备发现、应用级投屏与 Android 14+ Fusion 虚拟显示。 | `Swift` · ⭐ 1 · Updated 2026-08-02 |
 <!-- AUTO-PROJECTS:END -->
 
 ## Toolbox
